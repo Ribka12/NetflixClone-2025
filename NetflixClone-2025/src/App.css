@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend:wght@100..900&display=swap');
+:root {
+  --main-color: #ffffff;
+  --secondary-color: #e50914;
+  --bgcolor: #111;
+  --font-family: "Lexend", sans-serif;
+  --font-secondary: "Inter", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+ul{
+  list-style: none;
+}
+li a{
+  text-decoration: none;
+}
